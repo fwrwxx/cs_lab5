@@ -1,0 +1,15 @@
+D:/kpi/schemotech/lab5/test.v {1 {vlog -work work -nocovercells D:/kpi/schemotech/lab5/test.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module mux5to1_4bit_tb
+
+Top level modules:
+	mux5to1_4bit_tb
+
+} {} {}} D:/kpi/schemotech/lab5/mux5to1_4bit.v {1 {vlog -work work -nocovercells D:/kpi/schemotech/lab5/mux5to1_4bit.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module mux5to1_4bit
+
+Top level modules:
+	mux5to1_4bit
+
+} {} {}}

@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+dD:\kpi\schemotech\modelsim_ase\examples
+vmux5to1_4bit
+!s100 3Wa`XX=b3UY6oJ1o03`9C1
+IP<XFOM8idP`X;kKje1Wn;1
+V4IEnAbYKS>QfY@3A;hEB<2
+Z0 dD:\kpi\schemotech\lab5
+w1745829999
+8D:/kpi/schemotech/lab5/mux5to1_4bit.v
+FD:/kpi/schemotech/lab5/mux5to1_4bit.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+vmux5to1_4bit_tb
+I_:?@<95I=9YD[LMeU]UFZ3
+VQ6_f@^AFF3gzSnfcegfnf1
+Z4 dD:\kpi\schemotech\lab5
+w1745830218
+8D:/kpi/schemotech/lab5/test.v
+FD:/kpi/schemotech/lab5/test.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 on7le2<3Hm2WU@O9TMK<f2
+!s85 0
+!s101 -O0
